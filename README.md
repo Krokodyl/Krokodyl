@@ -44,6 +44,18 @@ https://github.com/Krokodyl/koi-wa-balance
 
 ![image 01](koi-wa-balance.png)
 
+## Font
+
+### Final French
+
+An 8-bit style font for the latin alphabet (Basic and More), inspired by the Final Fantasy games.
+
+https://github.com/Krokodyl/latin-font
+
+![image 01](basic-latin-22.png)![image 01](more-latin-22.png)
+
+
+
 ## Boardgames
 
 ### Battle Royal
