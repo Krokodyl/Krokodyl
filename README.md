@@ -1,13 +1,3 @@
-# MESSAGE TO REPROPCBS
-
-2 minutes ago:
-"Sure proove it to me and ill gladly take them down"
-
-PLEASE STOP SELLING MY TRANSLATIONS!!!!
-
-
-
-
 ### Hi there 👋
 
 I've been a Java developer since 2010.
