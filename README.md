@@ -4,6 +4,10 @@ I've been a Java developer since 2010.
 
 Here are some personal projects I've worked on.
 
+# REPROPCBS
+
+PLEASE STOP SELLING MY TRANSLATIONS!!!!
+
 ## Super Nintendo Translations
 
 ### Kessen! Dokapon Oukoku IV
