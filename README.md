@@ -2,6 +2,8 @@
 
 I've been a Java developer since 2010.
 
+You can check my different projects there: https://krokodyl.github.io/
+
 Here are some personal projects I've worked on.
 
 ## Super Nintendo Translations
